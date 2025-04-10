@@ -1,6 +1,6 @@
 ## Log Initiateur
 
-```remote: Enumerating objects: 11, done.
+```bash <remote: Enumerating objects: 11, done.
 remote: Counting objects: 100% (11/11), done.
 remote: Compressing objects: 100% (7/7), done.
 remote: Total 7 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
@@ -33,5 +33,4 @@ Fast-forward
 | * 00abda1 Complete index.md and README.md (Contributor 1)
 |/
 * 4764c52 Initial Commit
-* 9c2a7f4 add deadline
-```
+* 9c2a7f4 add deadline>```
