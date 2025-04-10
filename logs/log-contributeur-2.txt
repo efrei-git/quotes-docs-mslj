@@ -1,0 +1,5 @@
+* 7e51ff9 (origin/Contributeur-2) Added functions.md
+* 093671d Added functions.md
+* d4bf511 Complete index.md and README.md (Contributor 2)
+* 4764c52 (HEAD -> main, origin/main, origin/contributeur-2, origin/HEAD) Initial Commit
+* 9c2a7f4 add deadline
