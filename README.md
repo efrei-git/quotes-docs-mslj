@@ -5,8 +5,8 @@ Solutions de l'évaluation notée 2 du groupe MSLJ à l'aide de MkDocs.
 
 ## Membres du groupe
 
-- `initiateur` : Hugo Lévêque
+- `contributeur-1` : Rafael Spinola
 
 ## URLs des dépôts
 
-- `initiateur` : https://github.com/efrei-git/quotes-docs-mslj
+- `Contributeur-1` : https://github.com/DraAgon71/quotes-docs-mslj
