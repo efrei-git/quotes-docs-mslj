@@ -5,11 +5,12 @@ Solutions de l'évaluation notée 2 du groupe MSLJ à l'aide de MkDocs.
 
 ## Membres du groupe
 
-Contributeur-2
+- `contributeur-1` : Rafael Spinola
 - `contributeur-2` : Emmanuel Makosso
 - `contributeur-3` : Elisei Jurgiu
 
 ## URLs des dépôts
 
+- `Contributeur-1` : https://github.com/DraAgon71/quotes-docs-mslj
 - `contributeur-2` : https://github.com/K-emmanuel/quotes-docs-mslj
 - `contributeur-3` : https://github.com/elisei-efrei/quotes-docs-mslj
