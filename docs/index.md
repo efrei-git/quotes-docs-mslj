@@ -5,3 +5,5 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 ## Membres du groupe
 
 - `contributeur-1` : Rafael Spinola
+- `contributeur-2` : Emmanuel Makosso
+- `contributeur-3` : Elisei Jurgiu
