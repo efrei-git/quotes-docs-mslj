@@ -4,4 +4,4 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 
 ## Membres du groupe
 
-- `initiateur` : Hugo Lévêque
+- `contributeur-3` : Elisei Jurgiu
